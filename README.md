@@ -47,11 +47,6 @@ This is a tool for education only, I am not responsible for any misuse
 **If you want to donate, click on the button**
 <a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-ddos checker-yellow?style=for-the-badge&logo=github"></a>
 
-### 💫 Visitors (Cyber LED)
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=420&lines=🟩🟩🟩+VISITOR+COUNTER+🟩🟩🟩;Accessing+GitHub+Profile...;Visitors:+Live+Update+Enabled" alt="LED Visitor Counter" />
-</p>
+## 👁️ Visitors
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Whomrx666&label=VISITORS&color=00FF00&style=for-the-badge&labelColor=000000" alt="visitor badge"/>
-</p>
+> ![Visitor Count](https://komarev.com/ghpvc/?username=Whomrx666&label=Visitor%20Count&color=00ff00&style=for-the-badge)

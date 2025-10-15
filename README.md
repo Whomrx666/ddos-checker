@@ -48,4 +48,4 @@ This is a tool for education only, I am not responsible for any misuse
 <a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-ddos checker-yellow?style=for-the-badge&logo=github"></a>
 
 ### Visitors :
-![Visitor Count](https://profile-counter.glitch.me/Whomrx666/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Whomrx666&label=Visitors&color=blue&style=flat)

@@ -46,3 +46,5 @@ This is a tool for education only, I am not responsible for any misuse
 
 **If you want to donate, click on the button**
 <a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-ddos checker-yellow?style=for-the-badge&logo=github"></a>
+
+![Online Visitor](https://komarev.com/ghpvc/?username=Whomrx666&color=blue&style=flat&label=VISITORS)
